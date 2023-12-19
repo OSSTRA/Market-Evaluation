@@ -4,7 +4,7 @@
 mindmap
   root)Solutions(
     (Standard)
-        Private
+        Consumer
             Roadtrippers
             Wanderlog
             KDE Itinerary
